@@ -13,18 +13,18 @@ h1 {
 h2 {
     color: rgb(170, 240, 170);
     font-size: 1.75em;
-    text-align: left;
+    text-align: center;
 }
 
 h3 {
     color: rgb(212, 108, 108);
     font-size: 1.5em;
-    text-align: right;
+    text-align: center;
 }
 
 h4 {
     color: rgb(217, 243, 155);
     font-size: 1.25em;
-    text-align: justify;
+    text-align: center;
 }
 
