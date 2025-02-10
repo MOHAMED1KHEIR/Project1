@@ -1,29 +1,29 @@
 
 body {
-    background-color: rgb(110, 189, 117);
+    background-color: rgb(163, 255, 240);
 }
 
 
 h1 {
-    color: blue;
+    color: rgb(167, 167, 236);
     font-size: 2em;
     text-align: center;
 }
 
 h2 {
-    color: green;
+    color: rgb(170, 240, 170);
     font-size: 1.75em;
     text-align: left;
 }
 
 h3 {
-    color: red;
+    color: rgb(212, 108, 108);
     font-size: 1.5em;
     text-align: right;
 }
 
 h4 {
-    color: purple;
+    color: rgb(217, 243, 155);
     font-size: 1.25em;
     text-align: justify;
 }
